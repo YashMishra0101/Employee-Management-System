@@ -1,6 +1,6 @@
 # Employee Management System
 
-This project was created to assess my development skills and was part of my first internship selection process. It was built mainly for learning and skill evaluation purposes. I received my first internship based on this project (Pre-AI tools era 😄)
+I created this project as part of my first internship selection process. It was built mainly for skill evaluation purposes. I received my first internship based on this project.
 
 <img src="src/assets/Screenshot (413).png">
 <img src="src/assets/Screenshot (414).png">
