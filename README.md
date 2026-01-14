@@ -1,5 +1,6 @@
 # Employee Management System
-This project was created to assess my development skills and was part of my first internship selection process. It was built mainly for learning and skill evaluation purposes. I received my first internship based on this project (pre-AI tools era 😄)
+
+This project was created to assess my development skills and was part of my first internship selection process. It was built mainly for learning and skill evaluation purposes. I received my first internship based on this project (Pre-AI tools era 😄)
 
 <img src="src/assets/Screenshot (413).png">
 <img src="src/assets/Screenshot (414).png">
@@ -14,10 +15,6 @@ This project was created to assess my development skills and was part of my firs
 ● **Employees can log in and log out based on office time.**  
 ● **Admin can add employee performance.**  
 
-## 🌐 Project Demo 
-
-To see a live demo of the project, please visit: https://employee-management-system-cyan.vercel.app/
-
 ## Technologies Used
 
 - HTML
@@ -25,11 +22,6 @@ To see a live demo of the project, please visit: https://employee-management-sys
 - React
 - React Router
 - Firebase
-
-## Admin Credentials
-
-- **Email:** yashadmin@gmail.com  
-- **Password:** 123@#!Dev  
 
 ## Contributing
 
